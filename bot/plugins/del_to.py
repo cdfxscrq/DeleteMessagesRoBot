@@ -35,7 +35,7 @@ from bot.helpers.custom_filter import allowed_chat_filter
 async def del_to_command_fn(client: Bot, message: Message):
     try:
         status_message = await message.reply_text(
-            "trying to save ending message_id"
+            "Trying to Save Delete Ending Message ID ..."
         )
     except ChatAdminRequired:
         status_message = None
@@ -48,8 +48,8 @@ async def del_to_command_fn(client: Bot, message: Message):
     ] = message.reply_to_message.message_id
     if status_message:
         await status_message.edit_text(
-            "saved ending message_id. "
-            "https://github.com/SpEcHiDe/DeleteMessagesRoBot"
+            "Saved Delete Ending Message ID to Database!"
+            "Now send /delsel to Start Deleting Selected Messages!"
         )
         await status_message.delete()
     await message.delete()
