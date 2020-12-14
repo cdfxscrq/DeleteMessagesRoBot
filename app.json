@@ -12,8 +12,8 @@
         "administrators",
         "messages"
     ],
-    "repository": "https://github.com/SpEcHiDe/DeleteMessagesRoBot",
-    "website": "https://telegram.dog/SpEcHlDe",
+    "repository": "https://github.com/CyberBoyAyush/DeleteMessagesRoBot",
+    "website": "https://telegram.dog/CyberBoyAyush",
     "success_url": "https://t.me/SpEcHlDe/857",
     "env": {
         "APP_ID": {

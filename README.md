@@ -5,12 +5,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-
-### [Video Tutorial 🎥](https://youtu.be/RHQ-RP4_pKY)
-
-
 ## Credits, and Thanks to
 
+* [Spechide](https://github.com/SpEcHiDe)
 * [ThankTelegram](https://telegram.dog/ThankTelegram)
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Manuel15](https://telegram.dog/manuei15) for his [DelAllBot](https://telegram.dog/delall_bot)
